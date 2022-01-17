@@ -10,7 +10,14 @@
  */
 
 // TODO Votre code ici.
+?>
+    <ul>
+        <li>
+            <a href="exo1.php?iteration=10">Here</a>
+        </li>
+    </ul>
 
+<?php
 
 /**
  * Exo 2
